@@ -8,7 +8,7 @@ My developer mindset is evident through my aptitude for teamwork and my readines
 
 As a web developer, my commitment lies in crafting exceptional user experiences and functional websites. I'm always on the lookout for the latest trends and technologies in the world of web development because I understand that technology evolves rapidly, and I want to stay at the forefront.
 
-### You can find more details about me on LinkedIn: [Click here](www.linkedin.com/in/matteo-lucerni-0725a526b)
+### You can find more details about me on LinkedIn: [Click here](https://www.linkedin.com/in/matteo-lucerni-0725a526b)
 
 Below are some links to some very short preview videos of some of my pinned projects (uploaded on Imgur):
 - MAIN PROJECT (food delivery application):
