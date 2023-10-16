@@ -8,10 +8,12 @@ My developer mindset is evident through my aptitude for teamwork and my readines
 
 As a web developer, my commitment lies in crafting exceptional user experiences and functional websites. I'm always on the lookout for the latest trends and technologies in the world of web development because I understand that technology evolves rapidly, and I want to stay at the forefront.
 
-### You can find more details about me on LinkedIn: www.linkedin.com/in/matteo-lucerni-0725a526b
+### You can find more details about me on LinkedIn: [Click here](www.linkedin.com/in/matteo-lucerni-0725a526b)
 
 Below are some links to some very short preview videos of some of my pinned projects (uploaded on Imgur):
-
+- MAIN PROJECT (food delivery application):
+    - [DeliveBoo - VueJs customer frontend part](https://youtu.be/jsyLjn5wVso?si=cEIsg55jVKnGlfW8)
+    - [DeliveBoo - Laravel backend control panel](https://youtu.be/WGO1G2Px-jI)
 - [FrontEnd Portfolio with API calls to my BackEnd Project](https://imgur.com/a/aOcu2e3)
 - [Laravel BackEnd Portfolio with DB seed and migrations, support also login and API base](https://imgur.com/a/TomlBjY)
 - [Laravel Project for a Admin Panel inspired to DC Comics page](https://imgur.com/a/2TrkEBG)
