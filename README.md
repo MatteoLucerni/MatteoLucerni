@@ -20,4 +20,4 @@ Below are some links to some very short preview videos of some of my pinned proj
 - [Netflix replica with API calls to MovieDB](https://imgur.com/ufkXNcP)
 - [VueJs FrontEnd Whatsapp replica](https://imgur.com/a/Dr72owM)
 
-[![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoLucerni&layout=compact&hide=html,hack,blade,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoLucerni&layout=compact&hide=html,hack,blade,css&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
