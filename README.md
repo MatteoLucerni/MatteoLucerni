@@ -10,14 +10,4 @@ As a web developer, my commitment lies in crafting exceptional user experiences 
 
 ### You can find more details about me on LinkedIn: [Click here](https://www.linkedin.com/in/matteo-lucerni-0725a526b)
 
-Below are some links to some very short preview videos of some of my pinned projects (uploaded on Imgur):
-- MAIN PROJECT (food delivery application):
-    - [DeliveBoo - VueJs customer frontend part](https://youtu.be/jsyLjn5wVso?si=cEIsg55jVKnGlfW8)
-    - [DeliveBoo - Laravel backend control panel](https://youtu.be/WGO1G2Px-jI)
-- [FrontEnd Portfolio with API calls to my BackEnd Project](https://imgur.com/a/aOcu2e3)
-- [Laravel BackEnd Portfolio with DB seed and migrations, support also login and API base](https://imgur.com/a/TomlBjY)
-- [Laravel Project for a Admin Panel inspired to DC Comics page](https://imgur.com/a/2TrkEBG)
-- [Netflix replica with API calls to MovieDB](https://imgur.com/ufkXNcP)
-- [VueJs FrontEnd Whatsapp replica](https://imgur.com/a/Dr72owM)
-
 [![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoLucerni&layout=compact&hide=html,hack,blade,css&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
