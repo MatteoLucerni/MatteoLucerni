@@ -6,7 +6,7 @@ My journey into the world of programming has been a revelation. I discovered tha
 
 My developer mindset is evident through my aptitude for teamwork and my readiness to embrace new challenges. I believe that challenges are the perfect opportunity for personal growth and pushing the boundaries of what's possible. I relish collaborating with other creative minds and devising innovative solutions to problems.
 
-As a web developer, my commitment lies in crafting exceptional user experiences and functional websites. I'm always on the lookout for the latest trends and technologies in the world of web development because I understand that technology evolves rapidly, and I want to stay at the forefront.
+As a developer, my commitment lies in crafting exceptional user experiences and functional websites. I'm always on the lookout for the latest trends and technologies in the world of web development because I understand that technology evolves rapidly, and I want to stay at the forefront.
 
 ### You can find more details about me on LinkedIn: [Click here](https://www.linkedin.com/in/matteo-lucerni-0725a526b)
 
