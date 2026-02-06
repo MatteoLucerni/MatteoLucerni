@@ -8,5 +8,3 @@ I enjoy working in a team and tackling challenges, because I believe they’re t
 My goal is to build reliable, user-friendly applications while staying up to date with the most effective tools and practices in software development.  
 
 ### You can find more details about me on LinkedIn: [Click here](https://www.linkedin.com/in/matteo-lucerni-0725a526b)
-
-[![Most used langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoLucerni&layout=compact&hide=html,hack,blade,css&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
