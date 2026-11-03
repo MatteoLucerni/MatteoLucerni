@@ -7,7 +7,7 @@ I enjoy working in a team and tackling challenges, because I believe they’re t
 
 My goal is to build reliable, user-friendly applications while staying up to date with the most effective tools and practices in software development.  
 
-Some projects sites i've built:
+Some projects i've built:
 
 - https://getsublens.com
 - https://getspendguard.com
