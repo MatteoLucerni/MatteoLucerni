@@ -9,8 +9,8 @@ My goal is to build reliable, user-friendly applications while staying up to dat
 
 Some projects i've built:
 
+- https://youtubehider.com
 - https://getsublens.com
 - https://getspendguard.com
-- https://youtubehider.com
 
 ### You can find more details about me on LinkedIn: [Click here](https://www.linkedin.com/in/matteo-lucerni-0725a526b)
