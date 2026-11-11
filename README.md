@@ -9,6 +9,7 @@ My goal is to build reliable, user-friendly applications while staying up to dat
 
 Some projects i've built:
 
+- https://www.o2clinic.it
 - https://youtubehider.com
 - https://getsublens.com
 - https://getspendguard.com
